@@ -26,7 +26,7 @@ public class Runner {
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
-			System.out.println("                    PSB & JMP");
+			System.out.println("                     UNICAN");
 			// company.identify(); 
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
