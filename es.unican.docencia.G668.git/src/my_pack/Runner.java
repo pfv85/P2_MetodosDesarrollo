@@ -26,11 +26,11 @@ public class Runner {
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
-			System.out.println("                       JMP");
+			System.out.println("                    PSB & JMP");
 			// company.identify(); 
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
-			System.out.println("                   My  Students");
+			System.out.println("                   Our students");
 			// workerAtLeft.identify();
 			// workerAtRight.identify();
 			System.out.println("==================================================");
