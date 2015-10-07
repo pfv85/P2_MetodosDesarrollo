@@ -17,13 +17,13 @@ public class Runner {
 	
 	public static void main(String[] args) {
 
-		// AccessControl guardian = new AccessControl();
+		AccessControl guardian = new AccessControl();
 		
-		// if (guardian.hasAccess()) {
+		if (guardian.hasAccess()) {
 			
 			// Right workerAtRight = new Right();
 			// Left workerAtLeft   = new Left();
-			// Company company     = new Company();
+			Company company     = new Company();
 			Right r = new Right();
 			Left l = new Left();
 			l.identify();
@@ -31,16 +31,16 @@ public class Runner {
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
 			System.out.println("                     UNICAN");
-			// company.identify(); 
+			company.identify(); 
 			System.out.println("");
 			System.out.println("              		Credits To  				 ");
 			System.out.println("                   Our students");
 			// workerAtLeft.identify();
 			// workerAtRight.identify();
 			System.out.println("==================================================");
-		// } else {
-		//	System.out.println("You do not have access to this application");			
-		// }// if
+		 } else {
+			System.out.println("You do not have access to this application");			
+		 }// if
 	} // main
 
 } // Runner
