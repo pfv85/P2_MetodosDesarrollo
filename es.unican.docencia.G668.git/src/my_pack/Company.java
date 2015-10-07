@@ -3,6 +3,6 @@ package my_pack;
 public class Company {
 	public void identify()
 	{
-		System.out.println("Incauta");
+		System.out.println("Metodos SL");
 	}
 }
