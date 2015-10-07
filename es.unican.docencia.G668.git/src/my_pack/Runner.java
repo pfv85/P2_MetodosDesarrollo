@@ -24,6 +24,8 @@ public class Runner {
 			// Left workerAtLeft   = new Left();
 			// Company company     = new Company();
 			Right r = new Right();
+			Left l = new Left();
+			l.identify();
 			r.identify();
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
